@@ -1,4 +1,4 @@
-State,id,Annual Salary,Monthly Pay,Weekly Pay,Hourly Wage
+State,id,annualSalary,monthlyPay,weeklyPay,hourlyWage
 Alabama,1,"$53,641 ","$4,470 ","$1,305 ",$25.79 
 Alaska,2,"$60,098 ","$5,008 ","$1,305 ",$28.89 
 Arizona,4,"$60,867 ","$5,072 ","$1,305 ",$29.26 
